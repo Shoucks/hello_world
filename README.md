@@ -10,7 +10,7 @@ Me interesa entender cómo funcionan las cosas desde dentro: lógica, estructura
 
 ⸻
 
-🛠 Stack actual
+Stack actual
 	•	Frontend: HTML, CSS, JavaScript
 	•	Backend (en progreso): Python
 	•	Herramientas: Git, GitHub
@@ -18,7 +18,7 @@ Me interesa entender cómo funcionan las cosas desde dentro: lógica, estructura
 
 ⸻
 
-🎯 Objetivos
+Objetivos
 	•	Conseguir mi primer trabajo como desarrollador junior.
 	•	Construir proyectos reales que demuestren habilidades prácticas.
 	•	Mejorar continuamente mediante práctica diaria y aprendizaje autodidacta.
